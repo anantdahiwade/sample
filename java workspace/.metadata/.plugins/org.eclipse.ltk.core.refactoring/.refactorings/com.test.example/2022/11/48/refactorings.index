@@ -1,0 +1,8 @@
+1669048919341	Encapsulate field 'id'
+1669048996969	Encapsulate field 'policyName'
+1669049146305	Encapsulate field 'policyType'
+1669049151946	Encapsulate field 'premiumAmount'
+1669051209461	Encapsulate field 'accountNumber'
+1669051217158	Encapsulate field 'balance'
+1669051351580	Encapsulate field 'witdrawAmount'
+1669200600485	Delete element
